@@ -1,0 +1,30 @@
+{
+  "id": "3167943",
+  "name": "element-ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-liuhui",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12477617",
+      "name": "顺序播放",
+      "font_class": "-shunxu",
+      "unicode": "e788",
+      "unicode_decimal": 59272
+    },
+    {
+      "icon_id": "20784231",
+      "name": "随机播放",
+      "font_class": "-suiji",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "26415658",
+      "name": "单曲循环播放",
+      "font_class": "-danqu",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    }
+  ]
+}
